@@ -1,3 +1,3 @@
 # Javascript_Project
 This is my Javascript Project. <br>
-Author - Mohammad Yasir 
+Author - Mohammad Yasir Shah
